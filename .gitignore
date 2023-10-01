@@ -1,0 +1,15 @@
+# created by virtualenv automatically
+.vscode/
+df_scorecard.csv
+inputs_train_with_ref_cat.csv
+loan_data_2007_2014.csv
+loan_data_2015.csv
+loan_data_defaults_2015.csv
+loan_data_defaults.csv
+loan_data_inputs_2015.csv
+loan_data_inputs_test.csv
+loan_data_inputs_train.csv
+loan_data_targets_2015.csv
+loan_data_targets_test.csv
+loan_data_targets_train.csv
+Preprocessed_gen_loan_data_2007_2014.csv
